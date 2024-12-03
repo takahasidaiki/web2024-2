@@ -1,1 +1,1 @@
-function imgchange3()
+function imgchange3(){;}
