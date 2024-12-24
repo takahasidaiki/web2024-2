@@ -3,7 +3,7 @@ function nazo79(){
   alert('あたり！');
 }else if(document.getElementById('answer79').value == 'ゆめ'){
     alert('あたり！');
-  }else if(){
+  }else{
     alert('はずれ！');
   }
                  }
