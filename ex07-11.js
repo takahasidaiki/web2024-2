@@ -1,4 +1,4 @@
-function chackLeapYear(){
+function checkLeapYear(){
   const year = document.getElementById('year').value;
             let result = '';
 
