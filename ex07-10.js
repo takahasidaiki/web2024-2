@@ -10,4 +10,4 @@ function BMI2(){var x = Number(document.getElementById('bmi3').value);
     } else {
         result = "肥満";
     }
-              alert("BMI: " + bmi2 + " - " + result);}
+              alert("BMI: " + bmi2 + " = " + result);}
