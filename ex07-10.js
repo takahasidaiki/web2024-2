@@ -1,6 +1,6 @@
 function BMI2(){var x = Number(document.getElementById('bmi3').value);
               var y = Number(document.getElementById('bmi4').value);
-               var bmi2 = x / (y * y);
+               var bmi2 = (x * 10000) / (y * y);
                 var result;
 
                 if (bmi2 < 18.5) {
